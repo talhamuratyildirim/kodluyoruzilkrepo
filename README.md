@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![Kodluyoruz odev1](odev1.png)
+![Kodluyoruz odev1](https://www.hizliresim.com/lruks9q)
